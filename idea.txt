@@ -1,0 +1,9 @@
+This is what I thought how to proceed.
+
+1) Write the basic code for dijkstra's algorithm taking the required input and giving the correct output.
+2) make sure the code is written in a modular form so that we can add/edit/omit the functions (parts of the code).
+3) Dijkstra uses queue, so the queue should be implemented uses heaps.
+4) find the code for binary heap (default), binomial heap and fibonacci heaps.
+5) make a separate function for each of the queue and then plug it in the code.
+6) before starting Dijkstra's main function ask the user which queue/heap he wishes to use.
+7) calculate the time at the end of the code. 
